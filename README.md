@@ -1,4 +1,4 @@
-## Hi there, I'm Jinash.👋
+## Hi there, I'm an aspiring software engineer passionate about building products harnessing the power of AI. My most recent achievements include winning the first prize in the AI Category at Hacklytics & HackGT 2024 event. I'm currently leading the development of nursing simulation project as part of my research assistantship in the AI2 Lab.👋
 
 <!--
 **Jinash-Rouniyar/Jinash-Rouniyar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
