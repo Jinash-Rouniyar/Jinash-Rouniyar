@@ -3,6 +3,16 @@ I'm an aspiring software developer passionate about building products harnessing
 
 ![](https://komarev.com/ghpvc/?username=Jinash-Rouniyar&label=PROFILE+VIEWS&color=blue&style=plastic)
 
+<div id="badges" align = "center">
+    <a href="https://www.linkedin.com/in/jinash-rouniyar/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://x.com/jinash_r">
+      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    </a>
+  </div>
+</div>
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jinash-Rouniyar&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 ![Jinash's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jinash-Rouniyar&layout=compact&show_icons=true)
