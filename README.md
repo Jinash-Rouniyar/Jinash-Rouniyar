@@ -1,5 +1,11 @@
 ## Hi there, I'm Jinash👋
 I'm an aspiring software developer passionate about building products harnessing the power of AI. My most recent achievements include winning first prize in the AI Category at the Hacklytics & HackGT 2024 event. I'm currently leading the development of a nursing simulation project as part of my research assistantship in the AI2 Lab.
+
+![](https://komarev.com/ghpvc/?username=Jinash-Rouniyar&label=PROFILE+VIEWS&color=blue&style=plastic)
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jinash-Rouniyar&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
+![Jinash's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jinash-Rouniyar&layout=compact&show_icons=true)
 <!--
 **Jinash-Rouniyar/Jinash-Rouniyar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
