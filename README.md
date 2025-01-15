@@ -1,4 +1,6 @@
-## Hi there, I'm Jinash👋
+<h1>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&width=500&height=70&duration=4000&lines=Hi+There!+;+I'm+Jinash;" style="color: #A020F0" />
+</h1>
 I'm an aspiring software developer passionate about building products harnessing the power of AI. My most recent achievements include winning first prize in build with Chroma Category at CalHacks 11.0 & AI Category at the Hacklytics & HackGT 2024 event. I'm currently leading the development of a nursing simulation project as part of my research assistantship in the AI2 Lab.
 
 ![](https://komarev.com/ghpvc/?username=Jinash-Rouniyar&label=PROFILE+VIEWS&color=blue&style=plastic)
